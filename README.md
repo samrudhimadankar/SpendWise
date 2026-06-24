@@ -1,4 +1,4 @@
-# SpendWise - Full Stack Expense Tracker & Analytics Dashboard
+# SpendWise
 
 SpendWise is a MERN stack expense tracker where users can register, log in, add income/expense transactions, view analytics through charts, filter transactions, and export data to CSV or Excel.
 
