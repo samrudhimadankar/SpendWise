@@ -1,0 +1,16 @@
+{
+  "name": "spendwise-fullstack-expense-tracker",
+  "version": "1.0.0",
+  "description": "SpendWise - MERN full stack expense tracker with analytics, charts and export features.",
+  "scripts": {
+    "install-all": "npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "start": "npm start --prefix server"
+  },
+  "keywords": ["mern", "expense-tracker", "react", "node", "mongodb", "charts"],
+  "author": "Samrudhi Madankar",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
