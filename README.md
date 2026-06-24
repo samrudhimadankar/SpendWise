@@ -153,4 +153,3 @@ Built a MERN-based finance tracking application with secure authentication, CRUD
 - Created REST APIs for income/expense CRUD operations, monthly summaries, and category-wise analytics.
 - Designed interactive dashboards using Recharts for pie, bar, line, and area chart visualizations.
 - Added CSV and Excel export functionality for monthly financial reports.
-# SpendWise
